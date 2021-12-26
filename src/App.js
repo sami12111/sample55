@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>this is sample project 1</h1>
+      <h1>this is sample project 2</h1>
     </div>
   );
 }
